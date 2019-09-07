@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node messages-api.js",
+    "start": "node messages-api.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,6 +13,7 @@
     "cors": "^2.8.5",
     "db": "^1.1.1",
     "express": "^4.17.1",
+    "pg": "^7.12.1",
     "sequelize": "^5.18.1"
   }
 }
